@@ -20,3 +20,4 @@ Las clases grabadas se encuentran
 | 3      | [Clase 3](https://shuwei325.github.io/SP1633-II21/clase-3.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-3.rar) |
 | 4      | [Clase 4](https://shuwei325.github.io/SP1633-II21/clase-4.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-4.rar) |
 | 5      | [Clase 5](https://shuwei325.github.io/SP1633-II21/clase-5.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-5.rar) |
+| 6      | [Clase 6](https://shuwei325.github.io/SP1633-II21/clase-6.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-6.rar) |
