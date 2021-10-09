@@ -112,7 +112,7 @@ Tome `\(m=k+j (o~ j=m-k)\)`,
 
 
 `$$\gamma_Z(t,t-k)=E\left[ \left(\sum\limits_{i=0}^{k-1} \phi_1^i a_{t-i}+\sum\limits_{i=k}^{\infty} \phi_1^i a_{t-i}\right) \left( \sum\limits_{m=k}^{\infty} \phi_1^{m-k} a_{t-m}\right) \right]$$`
-`$$=E\left[ \left(\sum\limits_{i=k}^{\infty} \phi_1^i a_{t-i}\right) \left( \sum\limits_{m=k}^{\infty} \phi_1^{m-k} a_{t-m}\right) \right]=\sum\limits_{i=k}^{\infty}\phi_1^i \phi_1^{m-k} E(a_{t-i}^2)$$`
+`$$=E\left[ \left(\sum\limits_{i=k}^{\infty} \phi_1^i a_{t-i}\right) \left( \sum\limits_{m=k}^{\infty} \phi_1^{m-k} a_{t-m}\right) \right]=\sum\limits_{i=k}^{\infty}\phi_1^i \phi_1^{i-k} E(a_{t-i}^2)$$`
 
 `$$=\sigma_a^2 \sum\limits_{j=0}^{\infty} \phi_1^{k+j} \phi_1^j=\phi_1^k \sigma_a^2 \sum\limits_{j=0}^\infty \phi_1^{2j}=\phi_1^k \sigma_a^2 \frac{1}{1-\phi_1^2}$$`
 `$$=\phi_1^k Var(Z_t),~k=1,2,...$$`
@@ -235,7 +235,7 @@ y
 `$$\rho_{kk}=corr\left[Z_{t+k}-\hat{Z}_{t+k}~,~Z_t-\hat{Z}_{t}\right],~~\text{para}~~ k \geq 2,$$`
 donde   
 `\(\hat{Z}_{t+k}=\beta_1 Z_{t+k-1}+\beta_2 Z_{t+k-2}+...+\beta_{h-1} Z_{t+1}\)`
-`\(\hat{Z}_{t}=\beta_1 Z_{t+1}+\beta_2 Z_{t+2}+...+\beta_{h-1} Z_{t+k+1}\)`
+`\(\hat{Z}_{t}=\beta_1 Z_{t+1}+\beta_2 Z_{t+2}+...+\beta_{h-1} Z_{t+k-1}\)`
 
 
 ---
@@ -371,7 +371,7 @@ La f.a.c. y f.a.c.p. teórica de un MA(1):
 ---
 ### MA(1)
 - Considere `\(a_t \sim N(0,1)\)`, y un modelo MA(1):
-  `$$Z_t=C+a_t+\theta_1 a_{t-1}$$`
+  `$$Z_t=C+a_t-\theta_1 a_{t-1}$$`
   
   
 .pull-left[
@@ -477,7 +477,7 @@ donde:&lt;br /&gt;
 ---
 ### ARMA(1,1)
 
-Con las condiciones de estacionariedad y invertibilidad, se puede mostrar que:
+Con las condiciones de estacionariedad e invertibilidad, se puede mostrar que:
 
 - `\(E(Z_t)=\frac{C}{1-\phi_1}\)`.
 
