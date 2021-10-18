@@ -30,6 +30,10 @@ Semana        | Presentaciones | Laboratorio y Materiales extras
 6             | [Clase 6](https://shuwei325.github.io/SP1633-II21/clase-6.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-6.rar)
 7            | Repaso y examen | 
 8             | [Clase 7](https://shuwei325.github.io/SP1633-II21/clase-7.html) | 
+9             | Semana Desconexión | 
+10             | [Clase 8](https://shuwei325.github.io/SP1633-II21/clase-8.html)  [Clase 9](https://shuwei325.github.io/SP1633-II21/clase-9.html) | 
+
+
 
 
 
