@@ -32,8 +32,10 @@ Semana        | Presentaciones | Laboratorio y Materiales extras
 8             | [Clase 7](https://shuwei325.github.io/SP1633-II21/clase-7.html) | 
 9             | Semana Desconexión | 
 10             | [Clase 8](https://shuwei325.github.io/SP1633-II21/clase-8.html)  [Clase 9](https://shuwei325.github.io/SP1633-II21/clase-9.html) | 
-11             |                 | [archivos](https://shuwei325.github.io/SP1633-II21/clase-11.rar)
-
+11             |                 | [archivos](https://shuwei325.github.io/SP1633-II21/clase-9.rar)
+12             | [Clase 10](https://shuwei325.github.io/SP1633-II21/clase-10.html) | [archivos](https://shuwei325.github.io/SP1633-II21/clase-10.rar)
+13             | [Clase 11](https://shuwei325.github.io/SP1633-II21/clase-11.html) |[archivos](https://shuwei325.github.io/SP1633-II21/clase-11.rar) 
+14             | [Clase 12](https://shuwei325.github.io/SP1633-II21/clase-12.html) |[archivos](https://shuwei325.github.io/SP1633-II21/clase-12.rar) 
 
 
 
